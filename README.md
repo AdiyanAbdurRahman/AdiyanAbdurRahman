@@ -5,8 +5,8 @@ I am an aspiring software developer in my second year at BRAC University. I am i
 ## Skills 🖥️
 
 • Python (Intermediate)
-• Photoshop (Advanced)
-• Adobe After Effects (Intermediate)
+- • Photoshop (Advanced)
+- • Adobe After Effects (Intermediate)
 
 <!--
 **AdiyanAbdurRahman/AdiyanAbdurRahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
