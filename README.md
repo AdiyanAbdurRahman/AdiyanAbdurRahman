@@ -1,8 +1,7 @@
-### Hi there 👋
-## My name is Adiyan Abdur Rahman
+### Hi there 👋 I am Adiyan Abdur Rahman
 I am an aspiring software developer in my second year at BRAC University. I am interested in cybersecurity, machine learning, AI and DevOps. Currently, I am exploring different spaces to see which I find the most interesting.
 
-## Skills 🖥️
+#### Skills 🖥️
 
 - Python (Intermediate)
 - Photoshop (Advanced)
