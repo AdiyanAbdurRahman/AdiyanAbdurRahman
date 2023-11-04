@@ -1,4 +1,12 @@
 ### Hi there 👋
+## My name is Adiyan Abdur Rahman
+I am an aspiring software developer in my second year at BRAC University. I am interested in cybersecurity, machine learning, AI and DevOps. Currently, I am exploring different spaces to see which I find the most interesting.
+
+## Skills 🖥️
+
+• Python (Intermediate)
+• Photoshop (Advanced)
+• Adobe After Effects (Intermediate)
 
 <!--
 **AdiyanAbdurRahman/AdiyanAbdurRahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
